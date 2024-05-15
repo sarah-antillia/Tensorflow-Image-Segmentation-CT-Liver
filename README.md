@@ -77,7 +77,7 @@ The citation information can be found in the
  please download the jpg dataset from the google drive 
 <a href="https://drive.google.com/file/d/1etFEBSESEUhDIXOroyjSnqK4yGjdaMNU/view?usp=sharing">CT-Liver-ImageMask-Dataset-V1.zip</a>
 <br>
-, which was derived by us from the orginal CT dataset (dcm and png) of CHAOS Train_Sets.
+, which was derived by us from the original CT dataset (dcm and png) of CHAOS Train_Sets.
 <br>
 
 Please expand the downloaded ImageMaskDataset and place it under <b>./dataset</b> folder to be
