@@ -77,7 +77,7 @@ The citation information can be found in the
  please download the jpg dataset from the google drive 
 <a href="https://drive.google.com/file/d/1etFEBSESEUhDIXOroyjSnqK4yGjdaMNU/view?usp=sharing">CT-Liver-ImageMask-Dataset-V1.zip</a>.
 <br>
-, which was derived by us from the orginal CT dataset (dcm and png) of CHAOS Train_Sets.
+, which was derived by us from the original CT dataset (dcm and png) of CHAOS Train_Sets.
 <br>
 
 Please expand the downloaded ImageMaskDataset and place it under <b>./dataset</b> folder to be
@@ -220,7 +220,7 @@ Evaluation console output:<br>
 <img src="./projects/TensorflowSlightlyFlexibleUNet/CT-Liver/asset/evaluate_console_output_at_epoch_100.png" width="720" height="auto">
 <br><br>
 <a href="./projects/TensorflowSlightlyFlexibleUNet/CT-Liver/evaluation.csv">evaluation.csv</a><br>
-The loss (bce_dice_loss) score for this test dataset is very low, and accuracy very heigh as shown below.<br>
+The loss (bce_dice_loss) score for this test dataset is very low, and accuracy very high as shown below.<br>
 <pre>
 loss,0.0361
 binary_accuracy,0.9937
