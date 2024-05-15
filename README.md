@@ -1,6 +1,6 @@
 <h2>Tensorflow-Image-Segmentation-CT-Liver (2024/05/15)</h2>
 
-This is the first experimental Image Segmentation project for CT-Liver (Oral Cavity Derived Cancer) based on
+This is the first experimental Image Segmentation project for CT-Liver based on
 the <a href="https://github.com/sarah-antillia/Tensorflow-Image-Segmentation-API">Tensorflow-Image-Segmentation-API</a>, and
 <a href="https://drive.google.com/file/d/1etFEBSESEUhDIXOroyjSnqK4yGjdaMNU/view?usp=sharing">CT-Liver-ImageMask-Dataset-V1.zip</a>.
 <br>
